@@ -24,12 +24,13 @@ const styles = StyleSheet.create({
     text: {
         color: '#FFFFFF', 
         fontSize: 16, 
-        justifyContent: 'justify',
+        textAlign: 'justify',
         padding: 20,
     },
     titulo: {
         color: '#FFFFFF',
-        fontSize: 18,
+        fontSize: 19,
         textAlign: 'center',
+        padding: 20,
     },
 });

@@ -64,7 +64,9 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         marginTop: 30,
         borderRadius: 10,
+        marginBottom: 50,
     },
+
 
     textoBotao: {
         color: "white",
